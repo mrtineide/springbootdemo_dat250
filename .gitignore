@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+## artificial change, just to test if the superproject that tracks this repo on the branch main auto updates on this commit I am making with this change
